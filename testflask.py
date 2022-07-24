@@ -4,4 +4,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello_world():
-    return "<p>Hello world of Openshift!</p>"
+    return "<p>Hello world of Openshift!!!</p>"
